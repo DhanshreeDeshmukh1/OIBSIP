@@ -1,3 +1,5 @@
+As part of my internship with Oasis Infobyte, I was entrusted with three key machine learning projects, each addressing unique business needs across different domains. These projects provided an excellent opportunity to apply advanced data science techniques to real-world problems, enhancing my practical expertise in the field. The tasks I completed were as follows:
+
 ## TASK 1 - IRIS FLOWER CLASSIFICATION
 This project implements a machine learning model to classify iris flowers into three species: It will compare the setosa (Iris-setosa), versicolor (Iris-versicolor) and virginica (Iris-virginica). The dataset used is the famous Iris dataset, which consists of 150 samples with four features: being the four variables of the study which included sepal length, sepal width, petal length and petal width. The target here is to design a classifier which can correctly determine the type of iris flowers based on these characteristics.
 
